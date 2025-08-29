@@ -48,9 +48,33 @@
               "icon": "lucide-file",
               "title": "Intel Core Ultra 7 265KにおけるAI環境構築"
             }
+          },
+          {
+            "id": "0c6f2d2724eae8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "再エネ/買えるEV/index.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index.md"
+            }
+          },
+          {
+            "id": "eb82e35ccd56e5cf",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f21cbe6bd6997d94",
@@ -65,8 +89,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "b081b3fa11186de9",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Mind Map of index.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c3f637e3b086e03b",
@@ -205,6 +241,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "92343ca2b44bc4fb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "fc287479f042e494",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
         "currentTab": 4
@@ -222,13 +278,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c456ebabc9caffbf",
+  "active": "ed7e57b47b4831fc",
   "lastOpenFiles": [
-    "AIインフラ最適化/最適化基本方針.md",
+    "再エネ/買えるEV/index.md.md",
     "AIインフラ最適化/Intel/Intel Core Ultra 7 265KにおけるAI環境構築.md",
+    "Core Ultra.md",
+    "再エネ.md",
+    "再エネ/買えるEV",
+    "再エネ",
+    "AIインフラ最適化/最適化基本方針.md",
     "AIインフラ最適化/Intel",
     "GPU.md",
     "README.md",
